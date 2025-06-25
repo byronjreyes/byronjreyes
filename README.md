@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 <p align="center">
-  <img src="https://i.ibb.co/s92pGkj0/About-me.png" alt="About Me YAML Section" width="60%" />
+  <img src="https://i.ibb.co/Q7j7T3Kf/About-me.png" alt="About Me YAML Section" width="600" />
 </p>
 
 
