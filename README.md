@@ -13,37 +13,10 @@
 
 ## 🙋‍♂️ About Me
 
-```yaml
-name: Byron Alexis R. Reyes
-location: 🇵🇭 Philippines
-age: 22
-role: Software Developer
-status: Fresh Graduate & Ready to Innovate
-education:
-  - Bachelor of Science in Information Technology
+<p align="center">
+  <img src="https://i.ibb.co/s92pGkj0/About-me.png" alt="About Me YAML Section" width="60%" />
+</p>
 
-fields_of_interest:
-  - Web Development
-  - Machine Learning
-  - DevOps & Cloud
-  - Open Source
-
-currently_learning:
-  - Advanced React Patterns
-  - API Development
-  - Microservices
-
-currently_working_on:
-  - Point of Sale System
-  - SaaS Platform
-  - Open Source Tool
-
-hobbies:
-  - Gaming
-  - Photography
-  - Travel
-  - Coffee
-```
 
 ### 📫 Let's Connect
 
