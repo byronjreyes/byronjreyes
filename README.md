@@ -11,14 +11,14 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 <p align="center">
   <img src="https://i.ibb.co/ns1yzzFF/28393-E42-72-B8-4115-8-E67-FD245-D1-EAFD0.png" alt="About Me YAML Section" width="600" />
 </p>
 
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="mailto:reyesbyron0503@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -29,9 +29,9 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 🔝 Frontend Development
+###  Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🗃️ Database & Cloud
+###  Database & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### 📦 Libraries & Engines
+###  Libraries & Engines
 
 <p>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -82,7 +82,7 @@
 
 ---
 
-### 💡 Random Dev Quote
+###  Random Dev Quote
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -91,7 +91,7 @@
 </p>
 
 ---
-### 🎵 Music Profile
+### Music Profile
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/mxkkqbwkj3022157hdhj9h37m)
 
@@ -100,5 +100,5 @@
 
 
 <p align="center">
-  ⭐️ <strong>If you like my work, consider giving it a star!</strong> ⭐️
+   <strong>If you like my work, consider giving it a star!</strong> 
 </p>
