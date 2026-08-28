@@ -1,24 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+%5BByron+Alexis+R.+Reyes%5D+%F0%9F%91%8B;Software+Developer+%F0%9F%9A%80;22+years+old+%F0%9F%8C%9F;Fresh+graduate+%F0%9F%94%8D" alt="Typing SVG" />
+
+# Hi, I'm Byron Reyes 👋
+
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yro-dev&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yro-dev?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Lives-Philippines-success?style=for-the-badge" alt="Lives" />
 </div>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://i.ibb.co/ns1yzzFF/28393-E42-72-B8-4115-8-E67-FD245-D1-EAFD0.png" alt="About Me YAML Section" width="600" />
-</p>
+```yaml
+name: Byron Alexis R. Reyes
 
+location: PH Philippines
 
-###  Let's Connect
+age: 22
+
+role: Software Developer
+
+status: Fresh Graduate & Ready to Innovate
+
+education:
+  - Bachelor of Science in Information Technology
+
+fields_of_interest:
+  - Web Development
+  - Machine Learning
+  - DevOps & Cloud
+  - Open Source
+
+currently_learning:
+  - Advanced React Patterns
+  - API Development
+  - Microservices
+
+currently_working_on:
+  - Point of Sale System
+  - SaaS Platform
+  - Open Source Tool
+
+hobbies:
+  - Gaming
+  - Photography
+  - Travel
+  - Coffee
+```
+
+---
+
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:reyesbyron0503@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -29,9 +64,9 @@
 
 ---
 
-##  Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-###  Frontend Development
+### 🌐 Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +77,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-###  Backend Development
+### ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -50,7 +85,7 @@
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-###  Database & Cloud
+### 🗄️ Database & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -61,7 +96,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-###  Libraries & Engines
+### 📚 Libraries & Engines
 
 <p>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
@@ -70,7 +105,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
-###  Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -82,7 +117,7 @@
 
 ---
 
-###  Random Dev Quote
+## 💬 Random Dev Quote
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -91,14 +126,17 @@
 </p>
 
 ---
-### Music Profile
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/mxkkqbwkj3022157hdhj9h37m)
+## 🎵 Music Profile
+
+<p align="center">
+  <a href="https://open.spotify.com/user/mxkkqbwkj3022157hdhj9h37m">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-
-
 <p align="center">
-   <strong>If you like my work, consider giving it a star!</strong> 
+  <strong>⭐ If you like my work, consider giving it a star! ⭐</strong>
 </p>
